@@ -9,8 +9,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny | #cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+    "SLACK CHANNEL": "#logistics_ny | #cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu, Fri",
     "DELIVERY WINDOW": "2pm - 8pm"
   },
   {
@@ -23,8 +23,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny | #cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+    "SLACK CHANNEL": "#logistics_ny | #cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu, Fri",
     "DELIVERY WINDOW": "2pm - 8pm"
   },
   {
@@ -37,8 +37,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -51,8 +51,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday, Saturday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri, Sat",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -65,9 +65,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "8am - 8pm // 10am - 8pm"
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm | 10am - 8pm"
   },
   {
     "RING": 11,
@@ -79,8 +79,8 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday, Saturday, Sunday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri, Saturday, Sun",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -93,8 +93,8 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday, Saturday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri, Sat",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -107,8 +107,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
     "DELIVERY WINDOW": "10am - 8pm"
   },
   {
@@ -121,8 +121,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -135,8 +135,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -149,8 +149,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#hungry_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday",
+    "SLACK CHANNEL": "#hungry_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu, Fri",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -163,8 +163,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#hungry_ny",
-    "DELIVERY DAYS": "Monday, Wednesday",
+    "SLACK CHANNEL": "#hungry_ny",
+    "DELIVERY DAYS": "Mon, Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -177,8 +177,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#hungry_ny",
-    "DELIVERY DAYS": "Sunday, Tuesday",
+    "SLACK CHANNEL": "#hungry_ny",
+    "DELIVERY DAYS": "Sun, Tue",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -191,8 +191,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -205,8 +205,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Friday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Fri",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -219,8 +219,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "11am - 8pm"
   },
   {
@@ -233,8 +233,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "11am - 8pm"
   },
   {
@@ -247,9 +247,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "10am - 8pm / 8am - 8pm"
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "10am - 8pm | 8am - 8pm"
   },
   {
     "RING": 86,
@@ -261,8 +261,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": "10am - 8pm"
   },
   {
@@ -275,8 +275,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Monday, Tuesday, Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Mon, Tue, Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -289,8 +289,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": "11am - 8pm"
   },
   {
@@ -303,8 +303,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "11am - 8pm"
   },
   {
@@ -317,8 +317,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Tue, Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -331,8 +331,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Tuesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Tue, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -345,8 +345,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -359,8 +359,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -373,8 +373,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": ", Sunday, Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": ", Sun, Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -387,8 +387,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Sunday, Monday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Sun, Mon",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -401,8 +401,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -415,8 +415,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -429,8 +429,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -443,8 +443,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -457,8 +457,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -471,8 +471,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -485,9 +485,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "08:00-20:00 PM"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 157,
@@ -499,8 +499,8 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": ""
   },
   {
@@ -513,9 +513,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_ny",
-    "DELIVERY DAYS": "Thursday",
-    "DELIVERY WINDOW": "08:00-20:00 PM"
+    "SLACK CHANNEL": "#logistics_ny",
+    "DELIVERY DAYS": "Thu",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 4,
@@ -527,9 +527,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "1200-2000"
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 5,
@@ -541,8 +541,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -555,9 +555,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 16,
@@ -569,9 +569,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 19,
@@ -583,9 +583,9 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "0800-2000"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 36,
@@ -597,9 +597,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 37,
@@ -611,9 +611,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 58,
@@ -625,9 +625,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "1000-1900"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Tue, Wed, Thu",
+    "DELIVERY WINDOW": "10am - 7pm"
   },
   {
     "RING": 61,
@@ -639,9 +639,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "0800-2000"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 67,
@@ -653,9 +653,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "0800-2000"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 76,
@@ -667,9 +667,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Tuesday, Thursday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Tue, Thu",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 79,
@@ -681,9 +681,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "0800-1700"
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "8am - 5pm"
   },
   {
     "RING": 94,
@@ -695,9 +695,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "1000-2000"
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "10am - 8pm"
   },
   {
     "RING": 103,
@@ -709,8 +709,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -723,8 +723,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Monday, Wednesday",
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Mon, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -737,8 +737,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_la_norcal-arizona-nevada-slc",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -751,8 +751,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Sunday",
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Sun",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -765,8 +765,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -779,8 +779,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Wednesday, Thursday",
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Wed, Thu",
     "DELIVERY WINDOW": ""
   },
   {
@@ -793,8 +793,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": "8am - 8pm"
   },
   {
@@ -807,9 +807,9 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "10:00AM-8:00PM"
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "10am - 8pm"
   },
   {
     "RING": 146,
@@ -821,9 +821,9 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_la_socal",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "10:00AM - 7:00PM"
+    "SLACK CHANNEL": "#logistics_la_socal",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "10am - 7pm"
   },
   {
     "RING": 22,
@@ -835,9 +835,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "11:00 am- 7:00 pm"
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "11am - 7pm"
   },
   {
     "RING": 23,
@@ -849,9 +849,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "12:00 pm - 8:00 pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 24,
@@ -863,9 +863,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday",
-    "DELIVERY WINDOW": "12:00 pm - 8:00 pm"
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Sun, Mon, Tue",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 25,
@@ -877,9 +877,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Monday, Wednesday",
-    "DELIVERY WINDOW": "11:00 am - 7:00 pm"
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Mon, Wed",
+    "DELIVERY WINDOW": "11am - 7pm"
   },
   {
     "RING": 26,
@@ -891,8 +891,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -905,9 +905,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "8:00am- 8:00 pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 28,
@@ -919,9 +919,9 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "8:00am-8:00pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 65,
@@ -933,9 +933,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "8:00am- 8:00pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 78,
@@ -947,9 +947,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "8:00am - 8:00pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 112,
@@ -961,8 +961,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -975,9 +975,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_au",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "8:00am - 8:00pm"
+    "SLACK CHANNEL": "#logistics_au",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 29,
@@ -989,9 +989,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 30,
@@ -1003,9 +1003,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday, Tuesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon, Tue",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 31,
@@ -1017,9 +1017,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday, Monday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun, Mon",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 32,
@@ -1031,9 +1031,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 33,
@@ -1045,9 +1045,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 34,
@@ -1059,9 +1059,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 35,
@@ -1073,9 +1073,9 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 38,
@@ -1087,9 +1087,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 62,
@@ -1101,9 +1101,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Monday, Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Mon, Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 63,
@@ -1115,9 +1115,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "cookunity--bettertrucks",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "cookunity--bettertrucks",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 66,
@@ -1129,9 +1129,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Sunday, Wednesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Sun, Wed",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 71,
@@ -1143,9 +1143,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": ", Sunday, Wednesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Sun, Wed",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 72,
@@ -1157,9 +1157,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Wednesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Wed",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 73,
@@ -1171,9 +1171,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 74,
@@ -1185,9 +1185,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 77,
@@ -1199,9 +1199,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 97,
@@ -1213,9 +1213,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 106,
@@ -1227,8 +1227,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1241,8 +1241,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1255,8 +1255,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1269,8 +1269,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1283,8 +1283,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1297,8 +1297,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1311,8 +1311,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1325,8 +1325,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1339,8 +1339,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1353,8 +1353,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1367,8 +1367,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1381,8 +1381,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1395,8 +1395,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1409,9 +1409,9 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
-    "DELIVERY WINDOW": "11AM-20:00"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 158,
@@ -1423,9 +1423,9 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Sunday, Wednesday",
-    "DELIVERY WINDOW": "8AM-8PM"
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Sun, Wed",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 149,
@@ -1437,8 +1437,8 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_chi",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_chi",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1451,9 +1451,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 40,
@@ -1465,9 +1465,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 41,
@@ -1479,9 +1479,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Monday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Mon",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 42,
@@ -1493,9 +1493,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Thursday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Thu",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 43,
@@ -1507,9 +1507,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Monday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Mon",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 44,
@@ -1521,9 +1521,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 45,
@@ -1535,9 +1535,9 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu, Fri",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 75,
@@ -1549,9 +1549,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Thursday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Thu",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 80,
@@ -1563,9 +1563,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Wednesday, Thursday",
-    "DELIVERY WINDOW": "12pm-7pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Wed, Thu",
+    "DELIVERY WINDOW": "12pm - 7pm"
   },
   {
     "RING": 68,
@@ -1577,9 +1577,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday, Thursday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed, Thu",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 133,
@@ -1591,8 +1591,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Thursday",
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Thu",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1605,8 +1605,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1619,8 +1619,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1633,9 +1633,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 122,
@@ -1647,9 +1647,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "8am-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 123,
@@ -1661,9 +1661,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "8am-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 153,
@@ -1675,9 +1675,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "8am-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 134,
@@ -1689,9 +1689,9 @@
     "CUTOFF": "5BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_atl",
-    "DELIVERY DAYS": "Thursday",
-    "DELIVERY WINDOW": "8am-8pm"
+    "SLACK CHANNEL": "#logistics_atl",
+    "DELIVERY DAYS": "Thu",
+    "DELIVERY WINDOW": "8am - 8pm"
   },
   {
     "RING": 46,
@@ -1703,8 +1703,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1717,8 +1717,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Monday, Tuesday, Wednesday",
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Mon, Tue, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1731,8 +1731,8 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1745,8 +1745,8 @@
     "CUTOFF": "6 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Thursday, Friday",
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Thu, Fri",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1759,8 +1759,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1773,8 +1773,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#cookunity-dlivrd",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
+    "SLACK CHANNEL": "#cookunity-dlivrd",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1787,9 +1787,9 @@
     "CUTOFF": "4BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "1:00 PM - 8:00 PM"
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "1pm - 8pm"
   },
   {
     "RING": 104,
@@ -1801,8 +1801,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Tuesday, Wednesday",
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Tue, Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1815,8 +1815,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": "TBD"
   },
   {
@@ -1829,9 +1829,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_sea",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "11am-7pm"
+    "SLACK CHANNEL": "#logistics_sea",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "11am - 7pm"
   },
   {
     "RING": 50,
@@ -1843,9 +1843,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 51,
@@ -1857,9 +1857,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 52,
@@ -1871,9 +1871,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "9am-8m"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "9am - 8pm"
   },
   {
     "RING": 53,
@@ -1885,9 +1885,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday,Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun,Mon, Tue, Wed",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 54,
@@ -1899,9 +1899,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday, Tuesday, Wednesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon, Tue, Wed",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 55,
@@ -1913,9 +1913,9 @@
     "CUTOFF": "5 BD",
     "PACKAGING": "Box",
     "RETURNABLE PROGRAM": "FALSE",
-    "COMM CHANNEL": "Email",
-    "DELIVERY DAYS": "Tuesday, Wednesday, Thursday, Friday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "Email",
+    "DELIVERY DAYS": "Tue, Wed, Thu, Fri",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 57,
@@ -1927,9 +1927,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 81,
@@ -1941,9 +1941,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 125,
@@ -1955,8 +1955,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Tuesday",
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Tue",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1969,9 +1969,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Sunday, Monday",
-    "DELIVERY WINDOW": "11am-8pm"
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Sun, Mon",
+    "DELIVERY WINDOW": "11am - 8pm"
   },
   {
     "RING": 126,
@@ -1983,8 +1983,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_mia",
-    "DELIVERY DAYS": "Wednesday",
+    "SLACK CHANNEL": "#logistics_mia",
+    "DELIVERY DAYS": "Wed",
     "DELIVERY WINDOW": ""
   },
   {
@@ -1997,9 +1997,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Sunday,Tuesday,Wednesday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Sun,Tue,Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 140,
@@ -2011,9 +2011,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Sunday,Wednesday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Sun,Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 141,
@@ -2025,9 +2025,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Wednesday",
-    "DELIVERY WINDOW": "12pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Wed",
+    "DELIVERY WINDOW": "12pm - 8pm"
   },
   {
     "RING": 143,
@@ -2039,9 +2039,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Sunday",
-    "DELIVERY WINDOW": "1pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Sun",
+    "DELIVERY WINDOW": "1pm - 8pm"
   },
   {
     "RING": 142,
@@ -2053,9 +2053,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Monday",
-    "DELIVERY WINDOW": "1pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Mon",
+    "DELIVERY WINDOW": "1pm - 8pm"
   },
   {
     "RING": 138,
@@ -2067,9 +2067,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Sunday, Monday,Tuesday,Wednesday",
-    "DELIVERY WINDOW": "11am-7pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Sun, Mon,Tue,Wed",
+    "DELIVERY WINDOW": "11am - 7pm"
   },
   {
     "RING": 144,
@@ -2081,9 +2081,9 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Tuesday",
-    "DELIVERY WINDOW": "1pm-8pm"
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Tue",
+    "DELIVERY WINDOW": "1pm - 8pm"
   },
   {
     "RING": 145,
@@ -2095,8 +2095,8 @@
     "CUTOFF": "4 BD",
     "PACKAGING": "Bag",
     "RETURNABLE PROGRAM": "TRUE",
-    "COMM CHANNEL": "#logistics_tor",
-    "DELIVERY DAYS": "Monday",
+    "SLACK CHANNEL": "#logistics_tor",
+    "DELIVERY DAYS": "Mon",
     "DELIVERY WINDOW": "1pm-9pm"
   }
 ]
